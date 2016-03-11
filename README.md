@@ -1,2 +1,2 @@
 # LingPipe
-Text classification Sentiment
+Text classification Sentiment Subjective Objective
