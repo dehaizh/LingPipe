@@ -1,0 +1,2 @@
+# LingPipe
+Text classification Sentiment
